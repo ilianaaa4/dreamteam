@@ -1,12 +1,3 @@
 body {
   background-color: rgb(199, 165, 228);
 }
-.box {
-  height: auto;
-  padding: 10px;
-  width: auto;
-  margin: 5px;
-  border-radius: 40px;
-  border: 2px solid #b486e8;
-  background-color: #cfcbfd;
-}
