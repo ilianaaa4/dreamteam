@@ -15,3 +15,11 @@ h1 {
   text-align: center;
   color: #5c3a6d;
 }
+.opacity {
+  place-items: center;
+  display: grid;
+  width: auto;
+}
+.container {
+  position: relative;
+}
