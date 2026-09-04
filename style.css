@@ -18,7 +18,7 @@ body {
   border: 3px solid #efeaf8;
   border-radius: 12px;
   background-color: #efd1a5;
-  box-shadow: 0 4px 0 #cca871;
+  box-shadow: 0 4px 0 #f3ca8e;
   color: #8768ad;
   font-weight: 700;
   text-decoration: none;
@@ -29,12 +29,12 @@ body {
 .nav-button:hover,
 .nav-button:focus-visible {
   transform: translateY(-2px);
-  box-shadow: 0 6px 0 #f3e1ddaf;
+  box-shadow: 0 6px 0 #f8efb5;
   color: #291544;
 }
 .nav-button:active {
   transform: translateY(2px);
-  box-shadow: 0 2px 0 #9c95a8;
+  box-shadow: 0 2px 0 #f5f5b0;
 }
 .nav-button.active {
   background-color: #fff1a8;
@@ -45,6 +45,6 @@ body {
   width: auto;
   margin: 5px;
   border-radius: 40px;
-  border: 2px solid #9786ab;
+  border: 2px solid #d2abfe;
   background-color: #e4cdf1;
 }
