@@ -2,6 +2,43 @@ body {
   background-color: rgb(219, 196, 247);
   font-family: "Montserrat", sans-serif;
 }
+.top-nav {
+  margin: 5%;
+  padding: 10px;
+  border-radius: 16px;
+  background-color: #f1e9ff;
+}
+.top-nav nav {
+  display: flex;
+  gap: 5px;
+}
+.nav-button {
+  display: inline-block;
+  padding: 10px 18px;
+  border: 3px solid #efeaf8;
+  border-radius: 12px;
+  background-color: #efd1a5;
+  box-shadow: 0 4px 0 #cca871;
+  color: #8768ad;
+  font-weight: 700;
+  text-decoration: none;
+  transition:
+    transform 120ms ease,
+    box-shadow 120ms ease;
+}
+.nav-button:hover,
+.nav-button:focus-visible {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 0 #f3e1ddaf;
+  color: #291544;
+}
+.nav-button:active {
+  transform: translateY(2px);
+  box-shadow: 0 2px 0 #9c95a8;
+}
+.nav-button.active {
+  background-color: #fff1a8;
+}
 .box {
   height: auto;
   padding: 10px;
