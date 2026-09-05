@@ -51,8 +51,12 @@ body {
 h1 {
   text-align: center;
 }
-.image-row {
-  display: flex;
-  flex-direction: row;
-  gap: 10px;
+#element1 {
+  display: inline-block;
+  margin-right: auto;
+  width: 200px;
+}
+#element2 {
+  display: inline-block;
+  width: 200px;
 }
