@@ -72,3 +72,9 @@ h1 {
 #center-header {
   text-align: center;
 }
+
+#img {
+  position: relative;
+  corner-top-right-shape: 50px;
+  corner-top-left-shape: 0px;
+}
