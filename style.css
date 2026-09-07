@@ -79,6 +79,10 @@ h1 {
   corner-top-left-shape: 0px;
 }
 
+p {
+  margin: 15px 0;
+}
+
 .box-q4 {
   background-color: #e4cdf1;
   border-radius: 40px;
