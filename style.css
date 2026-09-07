@@ -78,3 +78,21 @@ h1 {
   corner-top-right-shape: 50px;
   corner-top-left-shape: 0px;
 }
+
+p {
+  margin: 15px 0;
+}
+
+.box-q4 {
+  background-color: #e4cdf1;
+  border-radius: 40px;
+  padding: 20px;
+  margin: 10px;
+}
+
+.box-q5 {
+  background-color: #e4cdf1;
+  border-radius: 40px;
+  padding: 20px;
+  margin: 10px;
+}
