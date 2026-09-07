@@ -200,3 +200,8 @@ h5 {
     serif;
   font-weight: bold;
 }
+
+a {
+  text-decoration: none;
+  color: #9954f4;
+}
