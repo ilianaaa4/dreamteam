@@ -64,6 +64,7 @@ h1 {
   margin: 10px;
   background-color: #f3eabe;
   border-radius: 40px;
+  text-align: center;
 }
 
 #center-header {
@@ -105,4 +106,9 @@ p {
 .q7 {
   text-align: center;
   font-size: 20px;
+}
+#box-img {
+  background-color: #fff1a8;
+  padding: 20px;
+  margin: 10px;
 }
