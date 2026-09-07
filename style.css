@@ -56,15 +56,6 @@ body {
 h1 {
   text-align: center;
 }
-#element1 {
-  display: inline-block;
-  margin-right: auto;
-  width: 200px;
-}
-#element2 {
-  display: inline-block;
-  width: 200px;
-}
 
 .box-q3 {
   height: auto;
@@ -79,12 +70,6 @@ h1 {
   text-align: center;
 }
 
-#img {
-  position: relative;
-  corner-top-right-shape: 50px;
-  corner-top-left-shape: 0px;
-}
-
 p {
   margin: 15px 0;
   font-family: "Montserrat", sans-serif;
@@ -95,7 +80,6 @@ p {
   border-radius: 40px;
   padding: 20px;
   margin: 10px;
-  font-family: "Montserrat", sans-serif;
 }
 
 .box-q5 {
