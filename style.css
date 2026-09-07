@@ -12,7 +12,7 @@ body {
   align-items: center;
   gap: 20px;
   padding: 20px;
-  background-color: #e5d6fe;
+  background-color: #e4cdf1;
 }
 
 .top-nav nav {
@@ -55,6 +55,8 @@ body {
 }
 h1 {
   text-align: center;
+  font-size: xxx-large;
+  font-weight: bold;
 }
 
 .box-q3 {
@@ -63,7 +65,6 @@ h1 {
   padding: 5px;
   margin: 10px;
   background-color: #f3eabe;
-  border-radius: 40px;
   text-align: center;
 }
 
@@ -73,7 +74,13 @@ h1 {
 
 p {
   margin: 20px 0;
-  font-family: "Montserrat", sans-serif;
+  font-family:
+    Palatino,
+    Palatino Linotype,
+    Palatino LT STD,
+    Book Antiqua,
+    Georgia,
+    serif;
 }
 
 .box-q4 {
@@ -91,7 +98,7 @@ p {
 }
 
 .backdrop {
-  background-color: #f3ecfc;
+  background-color: #eee4fc;
 }
 
 .box-q6 {
@@ -122,4 +129,63 @@ p {
   padding: auto;
   margin: auto;
   align-items: center;
+}
+.box2 {
+  background-color: #fff1a8;
+  height: auto;
+  width: auto;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 40px;
+}
+
+.h1 {
+  font-family:
+    Calisto MT,
+    Bookman Old Style,
+    Bookman,
+    Goudy Old Style,
+    Garamond,
+    Hoefler Text,
+    Bitstream Charter,
+    Georgia,
+    serif;
+
+  color: #1f1032;
+}
+
+.hr-left {
+  border-color: #1f1032;
+  width: 50%;
+  text-align: left;
+  margin-left: 0;
+  margin-right: auto;
+  border-top: 2px solid #1f1032;
+}
+
+.hr-center {
+  border-color: #1f1032;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border-top: 2px solid #1f1032;
+}
+li {
+  font-family:
+    Palatino,
+    Palatino Linotype,
+    Palatino LT STD,
+    Book Antiqua,
+    Georgia,
+    serif;
+}
+
+h2 {
+  font-family:
+    Garamond,
+    Baskerville,
+    Baskerville Old Face,
+    Hoefler Text,
+    Times New Roman,
+    serif;
 }
