@@ -3,7 +3,7 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 .top-nav {
-  margin: 5%;
+  margin: auto;
   padding: 10px;
   border-radius: 16px;
   background-color: #f1e9ff;
@@ -45,6 +45,36 @@ body {
   width: auto;
   margin: 5px;
   border-radius: 40px;
-  border: 2px solid #9786ab;
   background-color: #e4cdf1;
+}
+h1 {
+  text-align: center;
+}
+#element1 {
+  display: inline-block;
+  margin-right: auto;
+  width: 200px;
+}
+#element2 {
+  display: inline-block;
+  width: 200px;
+}
+
+.box-q3 {
+  height: auto;
+  width: 100%;
+  padding: 5px;
+  margin: 10px;
+  background-color: #f3eabe;
+  border-radius: 40px;
+}
+
+#center-header {
+  text-align: center;
+}
+
+#img {
+  position: relative;
+  corner-top-right-shape: 50px;
+  corner-top-left-shape: 0px;
 }
