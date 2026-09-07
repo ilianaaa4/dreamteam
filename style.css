@@ -1,5 +1,4 @@
 body {
-  background-color: #f3ecfc;
   font-family: "Montserrat", sans-serif;
 }
 .top-nav {
@@ -95,4 +94,8 @@ p {
   border-radius: 40px;
   padding: 20px;
   margin: 10px;
+}
+
+.backdrop {
+  background-color: #f3ecfc;
 }
