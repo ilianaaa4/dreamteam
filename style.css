@@ -63,7 +63,12 @@ h1 {
 .box-q3 {
   height: auto;
   width: 100%;
-  padding: auto;
-  margin: auto;
+  padding: 5px;
+  margin: 10px;
   background-color: #f3eabe;
+  border-radius: 40px;
+}
+
+#center-header {
+  text-align: center;
 }
