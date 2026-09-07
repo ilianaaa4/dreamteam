@@ -6,11 +6,15 @@ body {
   margin: auto;
   padding: 10px;
   border-radius: 16px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
   background-color: #e5d6fe;
 }
+
 .top-nav nav {
-  display: flex;
-  gap: 5px;
+  flex: 1;
 }
 .nav-button {
   display: inline-block;
@@ -74,9 +78,7 @@ h1 {
 }
 
 #img {
-  position: relative;
-  corner-top-right-shape: 50px;
-  corner-top-left-shape: 0px;
+  flex-shrink: 0;
 }
 
 p {
