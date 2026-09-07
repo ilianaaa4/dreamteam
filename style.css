@@ -112,3 +112,10 @@ p {
   padding: 20px;
   margin: 10px;
 }
+#box-img2 {
+  display: block;
+  background-color: #fff1a8;
+  padding: auto;
+  margin: auto;
+  align-items: center;
+}
