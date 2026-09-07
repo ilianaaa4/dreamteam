@@ -70,7 +70,7 @@ h1 {
 }
 
 p {
-  margin: 15px 0;
+  margin: 20px 0;
   font-family: "Montserrat", sans-serif;
 }
 
@@ -109,4 +109,8 @@ p {
   background-color: #fff1a8;
   padding: 20px;
   margin: 10px;
+}
+
+#header-margin {
+  margin: 20px 0;
 }
