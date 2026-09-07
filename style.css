@@ -63,6 +63,8 @@ h1 {
   padding: 5px;
   margin: 10px;
   background-color: #f3eabe;
+  border-radius: 40px;
+  text-align: center;
 }
 
 #center-header {
@@ -113,4 +115,11 @@ p {
 
 #header-margin {
   margin: 20px 0;
+}
+#box-img2 {
+  display: block;
+  background-color: #fff1a8;
+  padding: auto;
+  margin: auto;
+  align-items: center;
 }
