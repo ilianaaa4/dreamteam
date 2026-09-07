@@ -2,14 +2,21 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 .top-nav {
+  position: relative;
+  display: flex;
+  align-items: center;
   margin: auto;
-  padding: 10px;
+  padding: 20px;
   border-radius: 16px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
   background-color: #e5d6fe;
 }
+
 .top-nav nav {
-  display: flex;
-  gap: 5px;
+  flex: 1;
 }
 .nav-button {
   display: inline-block;
@@ -80,6 +87,7 @@ h1 {
 
 p {
   margin: 15px 0;
+  font-family: "Montserrat", sans-serif;
 }
 
 .box-q4 {
@@ -87,6 +95,7 @@ p {
   border-radius: 40px;
   padding: 20px;
   margin: 10px;
+  font-family: "Montserrat", sans-serif;
 }
 
 .box-q5 {
@@ -98,4 +107,18 @@ p {
 
 .backdrop {
   background-color: #f3ecfc;
+}
+
+.box-q6 {
+  background-color: #e4cdf1;
+  border-radius: 40px;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.q7 {
+  text-align: center;
+  font-size: 20px;
 }
